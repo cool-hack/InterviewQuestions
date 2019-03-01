@@ -1,0 +1,6 @@
+Q. Two class has a same function called as a print and third class C inherits both the classes . 
+What will happen ?
+Ans: Compiler Error 
+
+Q- Can we call pure virtual function ?
+
